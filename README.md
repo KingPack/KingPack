@@ -1,25 +1,19 @@
+![ ](https://komarev.com/ghpvc/?username=kingpack&style=flat&color=blueviolet) [![](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hendrek.ro@gmail.com) [![](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hendrek/)
 
-# KingPack | Hendrek Rodrigues - [![](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hendrek.ro@gmail.com) [![](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hendrek/)
+# KingPack | Hendrek Rodrigues
 
 ## Skill's
 
-![](https://komarev.com/ghpvc/?username=kingpack&style=flat&color=blueviolet)
-
-![](https://i.pinimg.com/originals/22/65/e7/2265e78ef201ac711e275a5508f07491.gif)
-
-## Stats
-
 <table>
-
 <tr>
     <td colspan="2">
         <a href="https://github.com/KingPack">
-            <img align="left" style="padding-right: 12px" alt="Ruby" width="32px" src="https://seeklogo.com/images/R/ruby-logo-087AF79367-seeklogo.com.jpg" />
-            <img align="left" style="padding-right: 12px" alt="Rails" width="32px" src="https://seeklogo.com/images/R/rails-logo-DD0927D290-seeklogo.com.png" />
-            <img align="left" style="padding-right: 12px" alt="JavaScript" width="32px" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" />
-            <img align="left" style="padding-right: 12px" alt="React" width="32px" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" />
-            <img align="left" style="padding-right: 12px" alt="Vue" width="32px" src="https://vuejs.org/images/logo.png" />
-            <img align="left" style="padding-right: 12px" alt="Python" width="32px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" />
+            <img align="left" style="padding-right: 12px" alt="Python" width="32px" src="https://seeklogo.com/images/P/python-logo-C50EED1930-seeklogo.com.png" />
+            <img align="left" style="padding-right: 12px" alt="Rails" width="32px" src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" />
+            <img align="left" style="padding-right: 12px" alt="JavaScript" width="32px" src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png" />
+            <img align="left" style="padding-right: 12px" alt="React" width="32px" src="https://seeklogo.com/images/G/gunicorn-logo-C8172DD072-seeklogo.com.png" />
+            <img align="left" style="padding-right: 12px" alt="Vue" width="32px" src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png" />
+            <img align="left" style="padding-right: 12px" alt="Python" width="32px" src="https://seeklogo.com/images/S/sqlite-logo-5E9F462E6A-seeklogo.com.png" />
             <img align="left" style="padding-right: 12px" alt="NodeJS" width="32px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
             <img align="left" style="padding-right: 12px" alt="Go" width="32px" src="https://blog.golang.org/lib/godoc/images/go-logo-blue.svg" />
             <img align="left" style="padding-right: 12px" alt="TypeScript" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
@@ -30,13 +24,37 @@
         </a>
     </td>
 </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/KingPack">
+                <img align="left" src="https://github-readme-stats.vercel.app/api?username=KingPack&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/KingPack">
+                <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingpack&layout=compact&theme=dracula&hide=html" />
+            </a>
+        </td>
+    </tr>
 </table>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KingPack&layout=compact&langs_count=7&theme=dracula)
-![](https://github-readme-stats.vercel.app/api?username=KingPack&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+#
+
+![ ](https://i.pinimg.com/originals/22/65/e7/2265e78ef201ac711e275a5508f07491.gif)
 
 # Projects
 
-### SPED_Tabelas_Fazenda | ![](https://img.shields.io/github/issues/KingPack/SPED_Tabelas_Fazenda?color=blue) ![](https://img.shields.io/github/stars/KingPack/SPED_Tabelas_Fazenda)
+Meus projetos pessoais
 
-### Spacepy | [![](https://img.shields.io/github/issues/KingPack/KingPack)](https://img.shields.io/github/stars/KingPack/KingPack) [![](https://img.shields.io/github/stars/KingPack/spacepy)](https://github.com/KingPack/spacepy)
+## Spacepy
+
+| Members | Shields | Tools |
+|----------|:-------------:|------:|
+| [KingPack]() | ![](https://img.shields.io/github/stars/KingPack/spacepy) | <img align="left" style="padding-right: 20px" alt="Postgres" width="32px" src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png" /> | 
+| [Lubeen](https://github.com/Lubeen) | ![](https://img.shields.io/github/issues/KingPack/spacepy) | <img align="left" style="padding-right: 20px" alt="Postgres" width="32px" src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png" /> |
+| none | a | <img align="left" style="padding-right: 20px" alt="Postgres" width="32px" src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png" /> |
+| none | a | <img align="left" style="padding-right: 20px" alt="Postgres" width="32px" src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png" /> |
+| none | a | <img align="left" style="padding-right: 20px" alt="Postgres" width="32px" src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png" /> |
+| none | a | <img align="left" style="padding-right: 20px" alt="Postgres" width="32px" src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png" /> |
+| none | a | <img align="left" style="padding-right: 20px" alt="Postgres" width="32px" src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png" /> |
+| none | a | <img align="left" style="padding-right: 20px" alt="Postgres" width="32px" src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png" /> |
