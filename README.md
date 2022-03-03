@@ -73,11 +73,6 @@
 
 <h4 align="center">Info</h4>
 
-<p align="center">
-    <a href="https://github.com/KingPack/spacepy">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kingpack&repo=spacepy&theme=radical" />
-    </a>
-</p>
 
 <p align="center">Este é um desafio de programação back-end que consiste na replicação da API Space Flight News.</p>
 
@@ -95,6 +90,12 @@
         </td>
     </tr>
 </table>
+
+<p align="center">
+    <a href="https://github.com/KingPack/spacepy">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kingpack&repo=spacepy&theme=radical" />
+    </a>
+</p>
 
 <h4 align="center">Technology</h4>
 
