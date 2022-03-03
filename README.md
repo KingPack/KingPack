@@ -19,7 +19,8 @@
         </a>
     </p>
 
-<p align="center">Software Enginner em python sempre aprendendo sobre novas tecnologias e aplicações por paixão. Buscando ajudar em projetos open-sources e iniciantes na área da tecnologia.</p>
+<p align="center">Software Enginner em python sempre aprendendo sobre novas tecnologias e aplicações por paixão.</p>
+<p align="center">Buscando ajudar em projetos open-sources e iniciantes na área da tecnologia.</p>
 <p align="center">Co-fundador e programador da comunidade <a href="https://www.linkedin.com/company/big-robots-community/about/">Big Robots Community.</a> </p>
 
 <h2 align="center">Skill's</h2>
