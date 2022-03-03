@@ -76,7 +76,7 @@
 <details>
 <summary><small>See more...</small></summary>
 
-<h4>Info</h4>
+<h3>Info</h3>
 
 <p>Este é um desafio de programação back-end que consiste na replicação da API Space Flight News.</p>
 <p>O desafio consiste em criar um servidor web que receba requisições HTTP e responda como a API Space Flight News.</p>
