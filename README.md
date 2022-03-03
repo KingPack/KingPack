@@ -19,8 +19,8 @@
         </a>
     </p>
 
-<p align="center">Software Enginner em python sempre aprendendo sobre novas tecnologias e aplicações por paixão.</p>
-<p align="center">Buscando ajudar em projetos open-sources e iniciantes na área da tecnologia.</p>
+<p align="center">Software Enginner em python sempre aprendendo sobre novas tecnologias e aplicações por paixão. Buscando ajudar em projetos open-sources e iniciantes na área da tecnologia.</p>
+
 <p align="center">Co-fundador e programador da comunidade <a href="https://www.linkedin.com/company/big-robots-community/about/">Big Robots Community.</a> </p>
 
 <h2 align="center">Skill's</h2>
@@ -73,9 +73,16 @@
 
 <h4 align="center">Info</h4>
 
+<p align="center">
+    <a href="">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kingpack&repo=spacepy&theme=radical" />
+    </a>
+</p>
+
 <p align="center">Este é um desafio de programação back-end que consiste na replicação da API Space Flight News.</p>
+
 <p align="center">O desafio consiste em criar um servidor web que receba requisições HTTP e responda como a API Space Flight News.</p>
-    
+
 <table align="center">
     <tr>
         <td colspan="1">
