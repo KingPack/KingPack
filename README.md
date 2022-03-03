@@ -9,11 +9,11 @@
     <td colspan="2">
         <a href="https://github.com/KingPack">
             <img align="left" style="padding-right: 12px" alt="Python" width="32px" src="https://seeklogo.com/images/P/python-logo-C50EED1930-seeklogo.com.png" />
-            <img align="left" style="padding-right: 12px" alt="Rails" width="32px" src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" />
-            <img align="left" style="padding-right: 12px" alt="JavaScript" width="32px" src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png" />
-            <img align="left" style="padding-right: 12px" alt="React" width="32px" src="https://seeklogo.com/images/G/gunicorn-logo-C8172DD072-seeklogo.com.png" />
-            <img align="left" style="padding-right: 12px" alt="Vue" width="32px" src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png" />
-            <img align="left" style="padding-right: 12px" alt="Python" width="32px" src="https://seeklogo.com/images/S/sqlite-logo-5E9F462E6A-seeklogo.com.png" />
+            <img align="left" style="padding-right: 12px" alt="Django" width="32px" src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" />
+            <img align="left" style="padding-right: 12px" alt="Flask" width="32px" src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png" />
+            <img align="left" style="padding-right: 12px" alt="Gunicorn" width="32px" src="https://seeklogo.com/images/G/gunicorn-logo-C8172DD072-seeklogo.com.png" />
+            <img align="left" style="padding-right: 12px" alt="Postgres" width="32px" src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png" />
+            <img align="left" style="padding-right: 12px" alt="SQLite" width="32px" src="https://seeklogo.com/images/S/sqlite-logo-5E9F462E6A-seeklogo.com.png" />
             <img align="left" style="padding-right: 12px" alt="NodeJS" width="32px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
             <img align="left" style="padding-right: 12px" alt="Go" width="32px" src="https://blog.golang.org/lib/godoc/images/go-logo-blue.svg" />
             <img align="left" style="padding-right: 12px" alt="TypeScript" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
