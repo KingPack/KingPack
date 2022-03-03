@@ -24,6 +24,10 @@
 
 <h2>Skill's</h2>
 
+<p>Software Enginner em python sempre aprendendo sobre novas tecnologias e aplicações por paixão. Buscando ajudar em projetos open-sources e iniciantes na área da tecnologia.</p>
+
+<p>Co-fundador e programador da comunidade Big Robots.</p>
+
 <table>
 <tr>
     <td  colspan="2">
