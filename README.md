@@ -43,7 +43,6 @@
             <img  align="left"  style="padding-right: 12px" alt="GitHub"  width="32px"  src="https://raw.githubusercontent.com/KingPack/KingPack/doc/imgs/github_logo.png"  />
             <img  align="left"  style="padding-right: 12px" alt="GitLab"  width="32px"  src="https://raw.githubusercontent.com/KingPack/KingPack/doc/imgs/gitlab_logo.png"  />
             <img  align="left"  style="padding-right: 12px" alt="Git"  width="32px"  src="https://raw.githubusercontent.com/KingPack/KingPack/doc/imgs/git_logo.png"  />
-            <img  align="left"  style="padding-right: 12px" alt="Codecommit"  width="62px"  src="https://raw.githubusercontent.com/KingPack/KingPack/doc/imgs/codecommit_logo.png"  />
         </a>
     </td>
 </tr>
