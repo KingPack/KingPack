@@ -58,9 +58,11 @@
 </tr>
 </table>
 <h2>Projects </h2>
+
 <a href="https://i.pinimg.com/originals/22/65/e7/2265e78ef201ac711e275a5508f07491.gif">
-    <img  align="center"  src="https://i.pinimg.com/originals/22/65/e7/2265e78ef201ac711e275a5508f07491.gif" />
+    <img  align="left"  src="https://steamuserimages-a.akamaihd.net/ugc/879748616164108107/8F44EE6DAFB4F4E2469AA4947059A09E1A78E93C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />
 </a>
+
 <h3>Spacepy</h3>
 <details>
 <summary><small>See more...</small></summary>
@@ -100,4 +102,3 @@
 <h3>Sped tabelas</h3>
 <details>
 <summary><small>See more...</small></summary>
-
