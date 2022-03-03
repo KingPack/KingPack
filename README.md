@@ -53,12 +53,12 @@
 <tr>
     <td>
         <a  href="https://github.com/KingPack">
-            <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=KingPack&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"  />
+            <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=KingPack&show_icons=true&theme=dark&include_all_commits=true&count_private=true"  />
         </a>
     </td>
     <td>
         <a href="https://github.com/KingPack">
-            <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingpack&layout=compact&theme=dracula&hide=html"  />
+            <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingpack&layout=compact&theme=dark&hide=html"  />
         </a>
     </td>
 </tr>
@@ -121,3 +121,5 @@
 <h3>Sped tabelas</h3>
 <details>
 <summary><small>See more...</small></summary>
+
+</details>
