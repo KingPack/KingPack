@@ -1,4 +1,5 @@
 <h1>KingPack | Hendrek Rodrigues</h1>
+
 <table>
     <tr>
         <td colspan="1">
@@ -20,7 +21,9 @@
         </td>
     </tr>
 </table>
+
 <h2>Skill's</h2>
+
 <table>
 <tr>
     <td  colspan="2">
@@ -57,18 +60,27 @@
     </td>
 </tr>
 </table>
+
 <h2>Projects </h2>
 
 <a href="https://i.pinimg.com/originals/22/65/e7/2265e78ef201ac711e275a5508f07491.gif">
-    <img  align="left"  src="https://steamuserimages-a.akamaihd.net/ugc/879748616164108107/8F44EE6DAFB4F4E2469AA4947059A09E1A78E93C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />
+    <img  align="center"  src="https://steamuserimages-a.akamaihd.net/ugc/879748616164108107/8F44EE6DAFB4F4E2469AA4947059A09E1A78E93C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />
 </a>
 
+<br>
+
+<p> </p>
+
 <h3>Spacepy</h3>
+
 <details>
 <summary><small>See more...</small></summary>
+
 <h4>Info</h4>
+
 <p>Este é um desafio de programação back-end que consiste na replicação da API Space Flight News.</p>
 <p>O desafio consiste em criar um servidor web que receba requisições HTTP e responda como a API Space Flight News.</p>
+    
 <table>
     <tr>
         <td colspan="1">
@@ -81,7 +93,9 @@
         </td>
     </tr>
 </table>
+
 <h4>Technology</h4>
+
 <table>
     <tr>
         <td colspan="1">
@@ -98,7 +112,9 @@
         </td>
     </tr>
 </table>
+
 </details>
+
 <h3>Sped tabelas</h3>
 <details>
 <summary><small>See more...</small></summary>
