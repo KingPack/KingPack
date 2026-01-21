@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>KingPack | Hendrek Rodrigues</h1>
+  <h1>KingPack | Lucas Rodrigues</h1>
 </p>
 
 <p align="center">
