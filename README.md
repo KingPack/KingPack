@@ -11,7 +11,7 @@
   <a href="mailto:hendrek.ro@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/hendrek/">
+  <a href="https://www.linkedin.com/in/lucarmesquita/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://t.me/Hendrekx">    
